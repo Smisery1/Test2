@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mRunning Main [0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/pgrossma/orgs_nb/codes/Scala/sbt/sbt-projects/DataPuzzler/target/scala-2.9.2/classes[0m
+[0m[[0mdebug[0m] [0m	/home/pgrossma/.sbt/boot/scala-2.9.2/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pgrossma/.ivy2/cache/commons-lang/commons-lang/jars/commons-lang-2.6.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pgrossma/.ivy2/cache/org.clapper/argot_2.9.2/jars/argot_2.9.2-0.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pgrossma/.ivy2/cache/org.clapper/grizzled-scala_2.9.2/jars/grizzled-scala_2.9.2-1.0.13.jar[0m
+[0m[[0mdebug[0m] [0m	/home/pgrossma/.ivy2/cache/jline/jline/jars/jline-2.6.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
